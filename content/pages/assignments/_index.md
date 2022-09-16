@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the written assignments
+  and in-class debates required for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the slides used in several of the course lectures.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Images
